@@ -1,0 +1,1 @@
+start php.exe C:\xampp\htdocs\project\autoalert.php
